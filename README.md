@@ -25,4 +25,4 @@ Prateek S
 Bhaskar Boora
 # -Further development Plans
 We plan to promote this bot as a social service automated bot for which we can collaborate with NGO's to help as many people on social media as possible.
-This program will be generalised for tackling many social issues with minimalistic changes in the code. We plan on extending this program for automated handling of issues such as preventing propagation of BLUE WHALE CHALLENGE(which is a social media propogated suice challenge),and promoting PAD MAN CHALLENGE etc.
+This program will be generalised for tackling many social issues with minimalistic changes in the code. We plan on extending this program for automated handling of issues such as preventing propagation of BLUE WHALE CHALLENGE(which is a social media propogated suicide challenge),and promoting PAD MAN CHALLENGE etc.
